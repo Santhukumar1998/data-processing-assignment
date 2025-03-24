@@ -1,0 +1,28 @@
+************* Module test_script_assessment
+E:\Tech_Mahindra_Assessment\test_script_assessment.py:78:0: C0325: Unnecessary parens after 'not' keyword (superfluous-parens)
+E:\Tech_Mahindra_Assessment\test_script_assessment.py:111:0: C0301: Line too long (102/100) (line-too-long)
+E:\Tech_Mahindra_Assessment\test_script_assessment.py:174:0: C0305: Trailing newlines (trailing-newlines)
+E:\Tech_Mahindra_Assessment\test_script_assessment.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+E:\Tech_Mahindra_Assessment\test_script_assessment.py:12:14: W0621: Redefining name 'input_dir' from outer scope (line 161) (redefined-outer-name)
+E:\Tech_Mahindra_Assessment\test_script_assessment.py:12:30: W0621: Redefining name 'output_dir' from outer scope (line 162) (redefined-outer-name)
+E:\Tech_Mahindra_Assessment\test_script_assessment.py:12:47: W0621: Redefining name 'temp_dir' from outer scope (line 163) (redefined-outer-name)
+E:\Tech_Mahindra_Assessment\test_script_assessment.py:12:62: W0621: Redefining name 'current_dir' from outer scope (line 164) (redefined-outer-name)
+E:\Tech_Mahindra_Assessment\test_script_assessment.py:22:8: W0621: Redefining name 'csv_data' from outer scope (line 167) (redefined-outer-name)
+E:\Tech_Mahindra_Assessment\test_script_assessment.py:23:8: W0621: Redefining name 'json_data' from outer scope (line 167) (redefined-outer-name)
+E:\Tech_Mahindra_Assessment\test_script_assessment.py:32:23: W0718: Catching too general exception Exception (broad-exception-caught)
+E:\Tech_Mahindra_Assessment\test_script_assessment.py:46:23: W0718: Catching too general exception Exception (broad-exception-caught)
+E:\Tech_Mahindra_Assessment\test_script_assessment.py:50:25: W0621: Redefining name 'csv_data' from outer scope (line 167) (redefined-outer-name)
+E:\Tech_Mahindra_Assessment\test_script_assessment.py:50:47: W0621: Redefining name 'json_data' from outer scope (line 167) (redefined-outer-name)
+E:\Tech_Mahindra_Assessment\test_script_assessment.py:52:8: W0621: Redefining name 'merged_data' from outer scope (line 168) (redefined-outer-name)
+E:\Tech_Mahindra_Assessment\test_script_assessment.py:62:8: W0621: Redefining name 'processed_data' from outer scope (line 169) (redefined-outer-name)
+E:\Tech_Mahindra_Assessment\test_script_assessment.py:83:30: W0621: Redefining name 'processed_data' from outer scope (line 169) (redefined-outer-name)
+E:\Tech_Mahindra_Assessment\test_script_assessment.py:110:28: W0621: Redefining name 'processed_data' from outer scope (line 169) (redefined-outer-name)
+E:\Tech_Mahindra_Assessment\test_script_assessment.py:161:4: C0103: Constant name "input_dir" doesn't conform to UPPER_CASE naming style (invalid-name)
+E:\Tech_Mahindra_Assessment\test_script_assessment.py:162:4: C0103: Constant name "output_dir" doesn't conform to UPPER_CASE naming style (invalid-name)
+E:\Tech_Mahindra_Assessment\test_script_assessment.py:163:4: C0103: Constant name "temp_dir" doesn't conform to UPPER_CASE naming style (invalid-name)
+E:\Tech_Mahindra_Assessment\test_script_assessment.py:164:4: C0103: Constant name "current_dir" doesn't conform to UPPER_CASE naming style (invalid-name)
+E:\Tech_Mahindra_Assessment\test_script_assessment.py:6:0: C0411: standard import "typing.List" should be placed before third party import "pandas" (wrong-import-order)
+
+------------------------------------------------------------------
+Your code has been rated at 8.16/10 (previous run: 8.16/10, +0.00)
+
